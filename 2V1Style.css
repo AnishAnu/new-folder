@@ -1,0 +1,25 @@
+.wrap{
+	width: 90%;
+	margin: auto;
+	background: green;
+}
+.content,aside
+{
+ height: 600px;
+ 
+  
+} 
+.content{
+	background: brown;
+	float:left;
+	width: 70%;
+}
+aside{
+	background: brown;
+	float: left;
+}
+aside
+{
+ list-style: none;
+ padding-left: 0;
+}

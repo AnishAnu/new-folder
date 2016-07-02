@@ -1,0 +1,147 @@
+
+.wrap{
+	background-color: #404040;
+	
+
+}
+.menu{
+	background: #808080;
+	float: left;
+	height: 30px;
+	width: 100px;
+	padding-bottom: 5px;
+	padding-left: 78px;
+
+}
+
+.menu,li{
+	display: inline;
+	padding-right: 2px;
+	/*float: left;*/
+	overflow: hidden;
+
+	
+}
+.h2{
+	display: inline;
+
+}
+.heading{
+	color: white;
+	font-size: 30px;
+}
+ul a{
+	text-decoration: none;
+	color: black;
+
+}
+ul a:hover{
+	text-decoration: underline;
+	font-size: 20px;
+}
+.main{
+	padding-top: 70px;
+}
+/*.section img{
+	height: 400;
+	width: 400;
+
+
+}*/
+.primary section img{
+	height: 280px;
+	width: 280px; 
+}
+.second section img{
+height: 280px;
+width: 280px;
+
+}
+.third section img{
+height: 280px;
+width: 280px;
+
+}
+
+.search{
+	padding-top: 70px;
+}
+.fourth
+{
+	font-family: sans-serif;
+
+	font-size: 15px;
+	background:	#FFDAB9;
+	margin-top: 20px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	text-align:justify;
+}
+.fifth
+{
+	font-family: sans-serif;
+
+	font-size: 15px;
+	background:	#9370DB;
+	margin-top: 20px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	text-align:justify;
+}
+.sixth
+{
+	font-family: sans-serif;
+
+	font-size: 15px;
+	background:	#1E90FF;
+	margin-top: 20px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	text-align:justify;
+}
+.hero{
+	margin-top: 20px;
+}
+
+
+.eighth img{
+	margin-top: 20px;
+	
+	width: 350px;
+	height: 430px;
+}
+.eleventh{
+
+	margin-top: 20px;
+	font-family: sans-serif;
+	text-align:left;
+
+}
+.tenth{
+	
+	margin-top: 20px;
+	font-family: sans-serif;
+
+}
+.nineth{
+
+	margin-top: 20px;
+	font-family: sans-serif;
+
+}
+.twelveth img{
+	width: 350px;
+	height: 430px;
+} 
+.thirthteen{
+	margin-top: 20px;
+}
+.footer1 h2{
+	background: blue;
+	text-align: center;
+
+}
+
+
+
+
